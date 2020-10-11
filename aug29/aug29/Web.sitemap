@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/basicCalculator.aspx" title="Home"  description="calculator">
+    <siteMapNode url="~/ValidationControls.aspx" title="Validation controls"  description="Validation controls" />
+    <siteMapNode url="~/Adrotator.aspx" title="Adrorator"  description="Adrorator" />
+    <siteMapNode url="~/MultiView.aspx" title="Multiview"  description="Multiview" />
+  </siteMapNode>
+</siteMap>

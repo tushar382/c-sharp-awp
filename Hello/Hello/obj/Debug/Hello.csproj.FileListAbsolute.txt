@@ -1,0 +1,7 @@
+C:\Users\sayal\source\repos\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\sayal\source\repos\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\sayal\source\repos\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\sayal\source\repos\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\sayal\source\repos\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\sayal\source\repos\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\sayal\source\repos\Hello\Hello\obj\Debug\Hello.pdb
